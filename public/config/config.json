@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x80802d05A5B6AD637a63770759778045A6802ee4",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x80802d05A5B6AD637a63770759778045A6802ee4",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Crypto Blvd",
+  "SYMBOL": "CRBLVD",
+  "MAX_SUPPLY": 4920,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/",
+  "SHOW_BACKGROUND": true
+}
